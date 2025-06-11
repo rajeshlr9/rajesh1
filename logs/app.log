@@ -1,0 +1,33 @@
+[INFO ] 2025-06-11 12:07:10.313 [TestNG-tests-1] TG001_AccountRegistrationTest - ****** Starting TG001_AccountRegistrationTest **** 
+[INFO ] 2025-06-11 12:07:10.376 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Application
+[INFO ] 2025-06-11 12:07:10.547 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Register Page
+[INFO ] 2025-06-11 12:07:11.327 [TestNG-tests-1] TG001_AccountRegistrationTest - provide data in Register Page
+[INFO ] 2025-06-11 12:07:22.996 [TestNG-tests-1] TG001_AccountRegistrationTest - Validate registration
+[INFO ] 2025-06-11 12:07:35.483 [TestNG-tests-1] TG002_LoginTest - Login Test Execution
+[INFO ] 2025-06-11 12:07:42.807 [TestNG-tests-1] TG002_LoginTest - Login is successfull
+[INFO ] 2025-06-11 13:12:41.625 [TestNG-tests-1] TG001_AccountRegistrationTest - ****** Starting TG001_AccountRegistrationTest **** 
+[INFO ] 2025-06-11 13:12:41.708 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Application
+[INFO ] 2025-06-11 13:12:41.965 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Register Page
+[INFO ] 2025-06-11 13:12:42.776 [TestNG-tests-1] TG001_AccountRegistrationTest - provide data in Register Page
+[INFO ] 2025-06-11 13:12:50.931 [TestNG-tests-1] TG001_AccountRegistrationTest - Validate registration
+[INFO ] 2025-06-11 13:13:08.679 [TestNG-tests-1] TG002_LoginTest - Login Test Execution
+[INFO ] 2025-06-11 13:13:16.043 [TestNG-tests-1] TG002_LoginTest - Login is successfull
+[INFO ] 2025-06-11 13:15:06.953 [TestNG-tests-1] TG001_AccountRegistrationTest - ****** Starting TG001_AccountRegistrationTest **** 
+[INFO ] 2025-06-11 13:15:06.979 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Application
+[INFO ] 2025-06-11 13:15:07.062 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Register Page
+[INFO ] 2025-06-11 13:15:07.973 [TestNG-tests-1] TG001_AccountRegistrationTest - provide data in Register Page
+[INFO ] 2025-06-11 13:15:14.709 [TestNG-tests-1] TG001_AccountRegistrationTest - Validate registration
+[INFO ] 2025-06-11 13:15:19.355 [TestNG-tests-1] TG002_LoginTest - Login Test Execution
+[INFO ] 2025-06-11 13:15:26.510 [TestNG-tests-1] TG002_LoginTest - Login is successfull
+[INFO ] 2025-06-11 13:54:28.811 [TestNG-tests-1] TG001_AccountRegistrationTest - ****** Starting TG001_AccountRegistrationTest **** 
+[INFO ] 2025-06-11 13:54:28.844 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Application
+[INFO ] 2025-06-11 13:54:28.929 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Register Page
+[INFO ] 2025-06-11 13:54:29.455 [TestNG-tests-1] TG001_AccountRegistrationTest - provide data in Register Page
+[INFO ] 2025-06-11 13:54:36.464 [TestNG-tests-1] TG001_AccountRegistrationTest - Validate registration
+[INFO ] 2025-06-11 13:54:41.554 [TestNG-tests-1] TG002_LoginTest - Login Test Execution
+[INFO ] 2025-06-11 13:54:48.767 [TestNG-tests-1] TG002_LoginTest - Login is successfull
+[INFO ] 2025-06-11 13:55:28.599 [TestNG-tests-1] TG001_AccountRegistrationTest - ****** Starting TG001_AccountRegistrationTest **** 
+[INFO ] 2025-06-11 13:55:28.624 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Application
+[INFO ] 2025-06-11 13:55:28.706 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Register Page
+[INFO ] 2025-06-11 13:55:29.171 [TestNG-tests-1] TG001_AccountRegistrationTest - provide data in Register Page
+[ERROR] 2025-06-11 13:55:34.510 [TestNG-tests-1] TG001_AccountRegistrationTest - registration failed

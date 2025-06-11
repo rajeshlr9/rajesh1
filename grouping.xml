@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count ="3" name="Master Suite" parallel="tests" >
+  
+  <groups>
+     <run>
+        <include name="Master"/>
+      
+       </run>
+  </groups>
+<listeners>
+<listener class-name="utilities.ExtentReportManager">
+</listener>
+
+
+</listeners>
+
+
+
+  <test name="Test1">
+    
+  <parameter name="os" value="Windows"/> 
+  <parameter name="browser" value="chrome"/> 
+  <classes>
+        <class name="testCases.TG002_LoginDDT"/>
+        <class name="testCases.TG001_AccountRegistrationTest"/>
+        <class name ="testCases.TG002_LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

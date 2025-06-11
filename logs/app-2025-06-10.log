@@ -1,0 +1,46 @@
+[INFO ] 2025-06-10 12:39:55.108 [main] TG002_LoginTest - Login Test Execution
+[INFO ] 2025-06-10 12:40:08.358 [main] TG002_LoginTest - Login is successfull
+[INFO ] 2025-06-10 14:25:13.660 [main] TG002_LoginTest - Login Test Execution
+[INFO ] 2025-06-10 14:25:26.630 [main] TG002_LoginTest - Login is successfull
+[INFO ] 2025-06-10 15:06:08.489 [main] TG002_LoginTest - Login Test Execution
+[INFO ] 2025-06-10 15:06:22.251 [main] TG002_LoginTest - Login is successfull
+[INFO ] 2025-06-10 15:11:00.132 [TestNG-tests-1] TG001_AccountRegistrationTest - ****** Starting TG001_AccountRegistrationTest **** 
+[INFO ] 2025-06-10 15:11:00.159 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Application
+[INFO ] 2025-06-10 15:11:00.256 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Register Page
+[INFO ] 2025-06-10 15:11:00.914 [TestNG-tests-1] TG001_AccountRegistrationTest - provide data in Register Page
+[INFO ] 2025-06-10 15:11:10.627 [TestNG-tests-1] TG001_AccountRegistrationTest - Validate registration
+[INFO ] 2025-06-10 15:11:25.808 [TestNG-tests-1] TG002_LoginTest - Login Test Execution
+[INFO ] 2025-06-10 15:11:32.891 [TestNG-tests-1] TG002_LoginTest - Login is successfull
+[INFO ] 2025-06-10 15:14:24.291 [TestNG-tests-1] TG001_AccountRegistrationTest - ****** Starting TG001_AccountRegistrationTest **** 
+[INFO ] 2025-06-10 15:14:24.291 [TestNG-tests-2] TG001_AccountRegistrationTest - ****** Starting TG001_AccountRegistrationTest **** 
+[INFO ] 2025-06-10 15:14:24.331 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Application
+[INFO ] 2025-06-10 15:14:24.331 [TestNG-tests-2] TG001_AccountRegistrationTest - Open Application
+[INFO ] 2025-06-10 15:14:24.443 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Register Page
+[INFO ] 2025-06-10 15:14:24.473 [TestNG-tests-2] TG001_AccountRegistrationTest - Open Register Page
+[ERROR] 2025-06-10 15:14:34.760 [TestNG-tests-1] TG001_AccountRegistrationTest - registration failed
+[ERROR] 2025-06-10 15:14:44.584 [TestNG-tests-2] TG001_AccountRegistrationTest - registration failed
+[INFO ] 2025-06-10 16:04:56.631 [TestNG-tests-1] TG001_AccountRegistrationTest - ****** Starting TG001_AccountRegistrationTest **** 
+[INFO ] 2025-06-10 16:04:56.784 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Application
+[INFO ] 2025-06-10 16:04:56.953 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Register Page
+[INFO ] 2025-06-10 16:04:57.784 [TestNG-tests-1] TG001_AccountRegistrationTest - provide data in Register Page
+[INFO ] 2025-06-10 16:05:12.626 [TestNG-tests-1] TG001_AccountRegistrationTest - Validate registration
+[INFO ] 2025-06-10 16:05:26.796 [TestNG-tests-1] TG002_LoginTest - Login Test Execution
+[INFO ] 2025-06-10 16:05:33.833 [TestNG-tests-1] TG002_LoginTest - Login is successfull
+[INFO ] 2025-06-10 17:26:05.176 [TestNG-tests-1] TG001_AccountRegistrationTest - ****** Starting TG001_AccountRegistrationTest **** 
+[INFO ] 2025-06-10 17:26:05.176 [TestNG-tests-3] TG001_AccountRegistrationTest - ****** Starting TG001_AccountRegistrationTest **** 
+[INFO ] 2025-06-10 17:26:05.176 [TestNG-tests-2] TG001_AccountRegistrationTest - ****** Starting TG001_AccountRegistrationTest **** 
+[INFO ] 2025-06-10 17:26:05.221 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Application
+[INFO ] 2025-06-10 17:26:05.221 [TestNG-tests-3] TG001_AccountRegistrationTest - Open Application
+[INFO ] 2025-06-10 17:26:05.221 [TestNG-tests-2] TG001_AccountRegistrationTest - Open Application
+[INFO ] 2025-06-10 17:26:05.367 [TestNG-tests-3] TG001_AccountRegistrationTest - Open Register Page
+[INFO ] 2025-06-10 17:26:05.406 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Register Page
+[INFO ] 2025-06-10 17:26:05.447 [TestNG-tests-2] TG001_AccountRegistrationTest - Open Register Page
+[INFO ] 2025-06-10 17:26:06.775 [TestNG-tests-3] TG001_AccountRegistrationTest - provide data in Register Page
+[ERROR] 2025-06-10 17:26:07.479 [TestNG-tests-2] TG001_AccountRegistrationTest - registration failed
+[ERROR] 2025-06-10 17:26:07.479 [TestNG-tests-1] TG001_AccountRegistrationTest - registration failed
+[ERROR] 2025-06-10 17:26:10.897 [TestNG-tests-3] TG001_AccountRegistrationTest - registration failed
+[INFO ] 2025-06-10 17:26:52.796 [TestNG-tests-1] TG001_AccountRegistrationTest - ****** Starting TG001_AccountRegistrationTest **** 
+[INFO ] 2025-06-10 17:26:52.825 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Application
+[INFO ] 2025-06-10 17:26:52.929 [TestNG-tests-1] TG001_AccountRegistrationTest - Open Register Page
+[INFO ] 2025-06-10 17:26:53.382 [TestNG-tests-1] TG001_AccountRegistrationTest - provide data in Register Page
+[INFO ] 2025-06-10 17:27:00.807 [TestNG-tests-1] TG001_AccountRegistrationTest - Validate registration
