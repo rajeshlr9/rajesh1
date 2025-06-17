@@ -16,6 +16,7 @@ import org.openqa.selenium.Platform;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
@@ -106,7 +107,9 @@ case "firefox" : driver = new ChromeDriver(); break;
 }
 }
     
-	
+	ChromeOptions options = new ChromeOptions();
+options.addArguments("--remote-allow-origins=*");
+ChromeDriver driver = new ChromeDriver(options);
 		
 		
 		
