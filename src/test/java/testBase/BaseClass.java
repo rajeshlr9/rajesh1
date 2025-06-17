@@ -106,10 +106,7 @@ case "firefox" : driver = new ChromeDriver(); break;
 }
 }
     
-	ChromeOptions options = new ChromeOptions();
-options.addArguments("--remote-allow-origins=*");
-ChromeDriver driver = new ChromeDriver(options);
-		
+	
 		
 		
 		
