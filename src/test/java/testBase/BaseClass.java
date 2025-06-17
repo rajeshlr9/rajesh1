@@ -106,7 +106,15 @@ case "firefox" : driver = new ChromeDriver(); break;
 }
 }
     
-	driver.manage().deleteAllCookies();
+	ChromeOptions options = new ChromeOptions();
+options.addArguments("--remote-allow-origins=*");
+ChromeDriver driver = new ChromeDriver(options);
+		
+		
+		
+		
+		
+		driver.manage().deleteAllCookies();
 	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 	//driver.get("https://tutorialsninja.com/demo/index.php?route=common/home");
 	
